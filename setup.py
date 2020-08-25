@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
   name="cognito_overlay",
-  version="0.0.1-dev02",
+  version="0.0.1-dev09",
   author="Michael Madison",
   author_email="cadetstar@hotmail.com",
   description="Pseudo-application for simplifying authentication with Cognito",
