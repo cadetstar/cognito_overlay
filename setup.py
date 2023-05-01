@@ -15,7 +15,7 @@ setuptools.setup(
   packages=setuptools.find_packages(),
   install_requires=[
     'boto3==1.12.35',
-    'Flask==1.1.2'
+    'Flask==2.3.2'
   ],
   classifiers=[
     "Programming Language :: Python :: 3",
